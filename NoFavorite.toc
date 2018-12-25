@@ -1,0 +1,11 @@
+## Interface: 80100
+## Title: NoFavorite
+## Version: 8.1
+## Notes: Reminds you to pick a favorite mount
+## X-Category: Character Advancement
+## Author: JDoubleU00
+## X-Email: JDoubleU00@gmail.com
+## X-Copyright: Copyright (c) 2018 JDoubleU00 MIT License
+## X-Website: https://github.com/JDoubleU00/JWRepBar
+
+NoFavorite.lua
